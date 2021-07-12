@@ -1,4 +1,4 @@
-# shoponix_grocery
+# flutter_project_structure
 
 A new Flutter application.
 
